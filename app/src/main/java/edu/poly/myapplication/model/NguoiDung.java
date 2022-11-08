@@ -7,7 +7,7 @@ public class NguoiDung {
     private String hoVaTen;
     private String avata;
     private Date ngaySinh;
-    private String email;
+    private String email;g
     private String chucVu;
     private String gioiTinh;
     private String matKhau;
